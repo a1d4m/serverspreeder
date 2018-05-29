@@ -18,7 +18,8 @@
 * 如果你嫌麻烦，只是想找个好用的SS，嫌麻烦又不想花太多钱，你可以和我合租我的自用精选线路。。。[想租SS的进](https://www.vpn100.xyz/)
 * 如果你想知道一些服务器是否适合你，请食用 各种[评测报告](http://www.91yun.org/?s=%E8%AF%84%E6%B5%8B)。我每天都会把我尝试的一些vps评测报告发出来，大家可以收藏好本站，及时关注。
 
-
+#快速更换内核（vultr需要执行此命令）
+    wget -N --no-check-certificate https://freed.ga/kernel/ruisu.sh && bash ruisu.sh
 # 锐速破解版安装方法：
     wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh
 # 锐速破解版卸载方法：
